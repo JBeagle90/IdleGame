@@ -1,0 +1,2 @@
+# IdleGame
+Created with CodeSandbox
